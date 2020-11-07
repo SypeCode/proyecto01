@@ -4,6 +4,7 @@ body {
 }
 
 #container {
-    border: 10px solid black;
-    color: blue;
+    border: 10px solid red;
+    color: white;
+    background-color: black;
 }
